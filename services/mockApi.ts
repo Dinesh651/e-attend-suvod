@@ -36,8 +36,8 @@ let attendanceRecords: AttendanceRecord[] = [
 ];
 
 let notices: Notice[] = [
-  { id: 'n1', title: 'Upcoming Holiday', content: 'The office will be closed next Monday for the public holiday.', createdAt: new Date() },
-  { id: 'n2', title: 'New Software Training', content: 'All employees are required to attend the new audit software training session on Friday at 10 AM.', createdAt: new Date() },
+  { id: 'n1', title: 'Upcoming Holiday', content: 'The office will be closed next Nday for the public holiday.', createdAt: new Date() },
+  { id: 'n2', title: 'New Software Training', content: 'All employees are required to attend the new audit software training session on xday at Y AM.', createdAt: new Date() },
 ];
 
 // --- MOCK API FUNCTIONS ---
